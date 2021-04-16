@@ -3,3 +3,5 @@ Hello, this is my first file in my git repository
 I'm making edits 
 
 And here are even more edits! Woo!
+
+I think maybe I'm starting to get this
